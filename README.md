@@ -11,7 +11,7 @@
 - Tailwind (https://www.tailwindcss.com/docs/guides/create-react-app)
   (https://tailwindcss.com/docs/installation)
 - CSS Box Model
-- classNames Library
+- classNames Library (https://www.npmjs.com/package/classnames)
 - react-icons (https://react-icons.github.io/react-icons/)
 
 #### Tools :

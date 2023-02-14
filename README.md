@@ -13,9 +13,3 @@
 - CSS Box Model
 - classNames Library (https://www.npmjs.com/package/classnames)
 - react-icons (https://react-icons.github.io/react-icons/)
-
-#### Tools :
-
--
-
-#### Result: https://react-stephen-comps.netlify.app/

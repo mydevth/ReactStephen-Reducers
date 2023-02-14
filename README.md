@@ -6,7 +6,13 @@
 
 #### Contents :
 
-- Button
+- Create Button Components to use in project
+- prop-types (https://www.npmjs.com/package/prop-types) -> Usage
+- Tailwind (https://www.tailwindcss.com/docs/guides/create-react-app)
+  (https://tailwindcss.com/docs/installation)
+- CSS Box Model
+- classNames Library
+- react-icons (https://react-icons.github.io/react-icons/)
 
 #### Tools :
 

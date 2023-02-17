@@ -1,48 +1,29 @@
-import { GoBell, GoCloudDownload, GoDatabase } from "react-icons/go";
-import Button from "./Button";
+import Accordion from "./components/Accordion";
+// import Button from "./components/Button";
 
 function App() {
-  function handleClick() {
-    console.log("Click");
-  }
-  return (
-    <div>
-      <div>
-        <Button
-          onClick={handleClick}
-          secondary
-          outline
-          rounded
-          className="mb-5"
-        >
-          <GoBell />
-          Click me!!
-        </Button>
-      </div>
-      <div>
-        <Button danger outline rounded onMouseEnter={handleClick}>
-          <GoCloudDownload />
-          Buy Now!
-        </Button>
-      </div>
-      <div>
-        <Button warning onMouseLeave={handleClick}>
-          <GoDatabase />
-          See Deal!
-        </Button>
-      </div>
-      <div>
-        <Button secondary outline>
-          Hide Ads!
-        </Button>
-      </div>
-      <div>
-        <Button primary rounded>
-          Something!
-        </Button>
-      </div>
-    </div>
-  );
+  const items = [
+    {
+      id: "f9dsj",
+      label: "Can I use React on a project",
+      content:
+        "You can use React on any project you want.You can use React on any project you want.You can use React on any project you want.You can use React on any project you want.You can use React on any project you want.",
+    },
+    {
+      id: "9d9gj",
+      label: "Can I use Javascript on a project",
+      content:
+        "You can use Javascript on any project you want.You can use React on any project you want.You can use React on any project you want.You can use React on any project you want",
+    },
+    {
+      id: "5dgej",
+      label: "Can I use CSS on a project",
+      content:
+        "You can use CSS on any project you want.You can use CSS on any project you want.You can use CSS on any project you want.You can use CSS on any project you want.You can use CSS on any project you want",
+    },
+  ];
+
+  return <Accordion items={items} />;
 }
 
 export default App;

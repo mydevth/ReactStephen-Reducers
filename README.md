@@ -1,15 +1,16 @@
 ### `Course : Modern React with Redux`
 
-#### `Section10 : Custom Navigation and Routing Systems`
+#### `Section11 : State design process`
 
 #### Instructor : **_Stephen Grider_**
 
 #### Contents :
 
-- Create Button Components to use in project
-- prop-types (https://www.npmjs.com/package/prop-types) -> Usage
-- Tailwind (https://www.tailwindcss.com/docs/guides/create-react-app)
-  (https://tailwindcss.com/docs/installation)
-- CSS Box Model
-- classNames Library (https://www.npmjs.com/package/classnames)
-- react-icons (https://react-icons.github.io/react-icons/)
+- Accordion.js
+- Event handler
+- map
+
+#### Tools
+
+- Icon React components (https://react-icons.github.io/react-icons/icons?name=go)
+- tailwindcss (https://tailwindcss.com/docs/guides/create-react-app)

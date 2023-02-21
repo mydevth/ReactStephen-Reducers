@@ -1,14 +1,13 @@
 ### `Course : Modern React with Redux`
 
-#### `Section11 : State design process`
+#### `Section12 : State design`
 
 #### Instructor : **_Stephen Grider_**
 
 #### Contents :
 
-- Accordion.js
-- Event handler
-- map
+- Dropdown
+- Prop Naming Convention
 
 #### Tools
 
@@ -17,4 +16,4 @@
 
 #### Output
 
-https://react-stephen-accordion.netlify.app/
+https://react-stephen-dropdown.netlify.app/

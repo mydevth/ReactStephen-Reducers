@@ -1,29 +1,21 @@
 ### `Course : Modern React with Redux`
 
-#### `Section13 : Making Navigation Reusable`
+#### `Section14 : Creating Portals with ReactDOM`
 
 #### Instructor : **_Stephen Grider_**
 
 #### Contents :
 
-- Dropdown
-- Prop Naming Convention
-- Reusable Panel components
-- useRef
-- event.ctrlKey
-- custom hook 227
+- Modal
 
 #### Tools
 
-- React Router
-  (https://reactrouter.com/en/main)
-
-- Icon React components
-  (https://react-icons.github.io/react-icons/icons?name=go)
+- lipsum
+  (https://lipsum.com/)
 
 - tailwindcss
   (https://tailwindcss.com/docs/guides/create-react-app)
 
 #### Output
 
-https://react-stephen-navigation.netlify.app/
+https://react-stephen-modal.netlify.app/

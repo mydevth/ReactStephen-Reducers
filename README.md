@@ -14,6 +14,7 @@
   (https://tailwindcss.com/docs/guides/create-react-app)
 
 - React icons
+  (https://react-icons.github.io/react-icons/)
 
 #### Output
 

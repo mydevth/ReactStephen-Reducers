@@ -1,20 +1,15 @@
 ### `Course : Modern React with Redux`
 
-#### `Section16 : Getting Clover with Data Sorting`
+#### `Section17 : Custom Hooks In Depth`
 
 #### Instructor : **_Stephen Grider_**
 
 #### Contents :
 
-- Sortable Table
+- Custom Hook (useSort hook)
 
 #### Tools
 
-- tailwindcss
-  (https://tailwindcss.com/docs/guides/create-react-app)
-
-- React icons
-  (https://react-icons.github.io/react-icons/)
 
 #### Output
 

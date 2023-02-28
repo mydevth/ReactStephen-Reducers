@@ -1,15 +1,17 @@
 ### `Course : Modern React with Redux`
 
-#### `Section17 : Custom Hooks In Depth`
+#### `Section18 : Into the World fo Reducers`
 
 #### Instructor : **_Stephen Grider_**
 
 #### Contents :
 
-- Custom Hook (useSort hook)
+- Reducers
 
 #### Tools
 
+- Immer
+
 #### Output
 
-https://react-stephen-customhook.netlify.app/
+https://react-stephen-reducers.netlify.app/
